@@ -1,0 +1,287 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX250 (ID=0x1d13)
+    Vendor:   NVIDIA
+    VRAM:     1983 MB
+    Driver:   31.0.15.1640
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Acer\Documents\unity\alpha builds\Cosmic Knowledge\cosmicKnowledgev3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Acer\Documents\unity\alpha builds\Cosmic Knowledge\cosmicKnowledgev3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Acer\Documents\unity\alpha builds\Cosmic Knowledge\cosmicKnowledgev3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Acer\Documents\unity\alpha builds\Cosmic Knowledge\cosmicKnowledgev3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Acer\Documents\unity\alpha builds\Cosmic Knowledge\cosmicKnowledgev3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Acer\Documents\unity\alpha builds\Cosmic Knowledge\cosmicKnowledgev3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Acer\Documents\unity\alpha builds\Cosmic Knowledge\cosmicKnowledgev3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Acer\Documents\unity\alpha builds\Cosmic Knowledge\cosmicKnowledgev3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Acer\Documents\unity\alpha builds\Cosmic Knowledge\cosmicKnowledgev3_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Acer\Documents\unity\alpha builds\Cosmic Knowledge\cosmicKnowledgev3_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Acer\Documents\unity\alpha builds\Cosmic Knowledge\cosmicKnowledgev3_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Acer\Documents\unity\alpha builds\Cosmic Knowledge\cosmicKnowledgev3_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Acer\Documents\unity\alpha builds\Cosmic Knowledge\cosmicKnowledgev3_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Acer\Documents\unity\alpha builds\Cosmic Knowledge\cosmicKnowledgev3_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.642 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.822100 ms
+Unloading the last loaded scene Assets/Scenes/YanacheLogo.unity(build index: 0), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 214)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.231900 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 273.
+Total: 0.142200 ms (FindLiveObjects: 0.008000 ms CreateObjectMapping: 0.008000 ms MarkObjects: 0.116700 ms  DeleteObjects: 0.009100 ms)
+
+Unloading the last loaded scene Assets/Scenes/GameMenu.unity(build index: 1), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 214)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.204000 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 271.
+Total: 0.101200 ms (FindLiveObjects: 0.027000 ms CreateObjectMapping: 0.006900 ms MarkObjects: 0.059700 ms  DeleteObjects: 0.007100 ms)
+
+Unloading the last loaded scene Assets/Scenes/GameInstruction.unity(build index: 2), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 214)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.217200 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 501.
+Total: 0.445900 ms (FindLiveObjects: 0.039300 ms CreateObjectMapping: 0.010300 ms MarkObjects: 0.362900 ms  DeleteObjects: 0.032800 ms)
+
+ArgumentException: Scene to unload is invalid
+  at (wrapper managed-to-native) UnityEngine.SceneManagement.SceneManager:UnloadSceneNameIndexInternal (string,int,bool,bool&)
+  at UnityEngine.SceneManagement.SceneManager.UnloadSceneAsync (System.String sceneName) [0x00000] in <filename unknown>:0 
+  at SceneHandler.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Scene to unload is invalid
+  at (wrapper managed-to-native) UnityEngine.SceneManagement.SceneManager:UnloadSceneNameIndexInternal (string,int,bool,bool&)
+  at UnityEngine.SceneManagement.SceneManager.UnloadSceneAsync (System.String sceneName) [0x00000] in <filename unknown>:0 
+  at SceneHandler.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading the last loaded scene Assets/Scenes/Main.unity(build index: 3), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 214)
+
+Unloading the last loaded scene Assets/Scenes/Main.unity(build index: 3), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 214)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+Unloading the last loaded scene Assets/Scenes/Main.unity(build index: 3), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 214)
+
+Unloading the last loaded scene Assets/Scenes/Main.unity(build index: 3), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 214)
+
+UnloadTime: 3.826300 ms
+
+Unloading 106 unused Assets to reduce memory usage. Loaded Objects now: 297.
+Total: 0.775200 ms (FindLiveObjects: 0.017100 ms CreateObjectMapping: 0.010000 ms MarkObjects: 0.156900 ms  DeleteObjects: 0.590800 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.255600 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 295.
+Total: 0.134300 ms (FindLiveObjects: 0.011600 ms CreateObjectMapping: 0.008900 ms MarkObjects: 0.108500 ms  DeleteObjects: 0.004900 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.206600 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 295.
+Total: 0.142200 ms (FindLiveObjects: 0.009500 ms CreateObjectMapping: 0.007900 ms MarkObjects: 0.119800 ms  DeleteObjects: 0.004400 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.203100 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 295.
+Total: 0.151800 ms (FindLiveObjects: 0.010400 ms CreateObjectMapping: 0.008500 ms MarkObjects: 0.128300 ms  DeleteObjects: 0.004100 ms)
+
+Unloading the last loaded scene Assets/Scenes/GameOver.unity(build index: 4), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 214)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.228000 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 439.
+Total: 0.155500 ms (FindLiveObjects: 0.010200 ms CreateObjectMapping: 0.009300 ms MarkObjects: 0.126500 ms  DeleteObjects: 0.009000 ms)
+
+Unloading the last loaded scene Assets/Scenes/Main.unity(build index: 3), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 214)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+Unloading the last loaded scene Assets/Scenes/Main.unity(build index: 3), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 214)
+
+Unloading the last loaded scene Assets/Scenes/Main.unity(build index: 3), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 214)
+
+Unloading the last loaded scene Assets/Scenes/Main.unity(build index: 3), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 214)
+
+UnloadTime: 0.318800 ms
+
+Unloading 106 unused Assets to reduce memory usage. Loaded Objects now: 295.
+Total: 0.608100 ms (FindLiveObjects: 0.019300 ms CreateObjectMapping: 0.009400 ms MarkObjects: 0.109000 ms  DeleteObjects: 0.470100 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.252600 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 295.
+Total: 0.148700 ms (FindLiveObjects: 0.010200 ms CreateObjectMapping: 0.008500 ms MarkObjects: 0.125500 ms  DeleteObjects: 0.004100 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.218400 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 295.
+Total: 0.129600 ms (FindLiveObjects: 0.010600 ms CreateObjectMapping: 0.007900 ms MarkObjects: 0.106500 ms  DeleteObjects: 0.004100 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.207800 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 295.
+Total: 0.124900 ms (FindLiveObjects: 0.010600 ms CreateObjectMapping: 0.008200 ms MarkObjects: 0.101400 ms  DeleteObjects: 0.004200 ms)
+
+Unloading the last loaded scene Assets/Scenes/GameOver.unity(build index: 4), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 214)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.228600 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 439.
+Total: 0.171700 ms (FindLiveObjects: 0.037100 ms CreateObjectMapping: 0.013300 ms MarkObjects: 0.112500 ms  DeleteObjects: 0.008400 ms)
+
+Unloading the last loaded scene Assets/Scenes/Main.unity(build index: 3), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 214)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.407600 ms
+
+Unloading 106 unused Assets to reduce memory usage. Loaded Objects now: 295.
+Total: 0.623600 ms (FindLiveObjects: 0.009700 ms CreateObjectMapping: 0.009200 ms MarkObjects: 0.121100 ms  DeleteObjects: 0.483000 ms)
+
+Unloading the last loaded scene Assets/Scenes/GameOver.unity(build index: 4), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 214)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.198100 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 439.
+Total: 0.138700 ms (FindLiveObjects: 0.010300 ms CreateObjectMapping: 0.009200 ms MarkObjects: 0.110500 ms  DeleteObjects: 0.008200 ms)
+
+Unloading the last loaded scene Assets/Scenes/Main.unity(build index: 3), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 214)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+Unloading the last loaded scene Assets/Scenes/Main.unity(build index: 3), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 214)
+
+Unloading the last loaded scene Assets/Scenes/Main.unity(build index: 3), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 214)
+
+Unloading the last loaded scene Assets/Scenes/Main.unity(build index: 3), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 214)
+
+UnloadTime: 0.475600 ms
+
+Unloading 106 unused Assets to reduce memory usage. Loaded Objects now: 295.
+Total: 0.622400 ms (FindLiveObjects: 0.009600 ms CreateObjectMapping: 0.009600 ms MarkObjects: 0.103300 ms  DeleteObjects: 0.499500 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.206400 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 295.
+Total: 0.146000 ms (FindLiveObjects: 0.010400 ms CreateObjectMapping: 0.008400 ms MarkObjects: 0.122800 ms  DeleteObjects: 0.004100 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.228200 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 295.
+Total: 0.127000 ms (FindLiveObjects: 0.010300 ms CreateObjectMapping: 0.008000 ms MarkObjects: 0.102000 ms  DeleteObjects: 0.006200 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.226700 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 295.
+Total: 0.123200 ms (FindLiveObjects: 0.010700 ms CreateObjectMapping: 0.008200 ms MarkObjects: 0.099400 ms  DeleteObjects: 0.004300 ms)
+
+Unloading the last loaded scene Assets/Scenes/GameOver.unity(build index: 4), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 214)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.209800 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 439.
+Total: 0.161600 ms (FindLiveObjects: 0.010900 ms CreateObjectMapping: 0.009600 ms MarkObjects: 0.132200 ms  DeleteObjects: 0.008500 ms)
+
+Unloading the last loaded scene Assets/Scenes/Main.unity(build index: 3), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 214)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.420100 ms
+
+Unloading 106 unused Assets to reduce memory usage. Loaded Objects now: 295.
+Total: 0.594300 ms (FindLiveObjects: 0.010400 ms CreateObjectMapping: 0.009300 ms MarkObjects: 0.100500 ms  DeleteObjects: 0.473600 ms)
+
+Unloading the last loaded scene Assets/Scenes/GameOver.unity(build index: 4), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 214)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.235100 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 439.
+Total: 0.150700 ms (FindLiveObjects: 0.011400 ms CreateObjectMapping: 0.009800 ms MarkObjects: 0.117000 ms  DeleteObjects: 0.008300 ms)
+
+Unloading the last loaded scene Assets/Scenes/Main.unity(build index: 3), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 214)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.404900 ms
+
+Unloading 106 unused Assets to reduce memory usage. Loaded Objects now: 295.
+Total: 0.614900 ms (FindLiveObjects: 0.009600 ms CreateObjectMapping: 0.009100 ms MarkObjects: 0.118900 ms  DeleteObjects: 0.476800 ms)
+
+Unloading the last loaded scene Assets/Scenes/GameOver.unity(build index: 4), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 214)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.266400 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 439.
+Total: 0.190800 ms (FindLiveObjects: 0.013100 ms CreateObjectMapping: 0.011800 ms MarkObjects: 0.154300 ms  DeleteObjects: 0.011200 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 37fc -> priority: 1 
+  Thread -> id: 1f98 -> priority: 1 
+  Thread -> id: 234c -> priority: 1 
+  Thread -> id: 2238 -> priority: 1 
